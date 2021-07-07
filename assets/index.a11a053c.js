@@ -1,1 +1,0 @@
-import{o as s,c as t,a as e,b as n}from"./vendor.648c7944.js";const o={data:()=>({count:123}),created(){this.onOpen()},methods:{onOpen(){console.log("this is my first web preject")}}},a={class:"test"},c=e("p",{class:"title"},"LIMINHSI",-1),r=e("span",null,"vite & vue3",-1);o.render=function(e,n,o,i,p,l){return s(),t("div",a,[c,r])};n({setup:e=>(e,n)=>(s(),t(o))}).mount("#app");
