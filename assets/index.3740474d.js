@@ -1,1 +1,0 @@
-import o from"./index.c96d9d8d.js";import{r as e,o as r,b as t}from"./vendor.15cda6dc.js";const d={components:{Home:o},data:()=>({}),setup(){}};d.render=function(o,d,n,s,a,c){const m=e("Home");return r(),t(m)};export default d;
